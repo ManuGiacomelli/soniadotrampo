@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Yaldevi&display=swap");
+
+body {
+  background-image: url(https://i.imgur.com/VQ2N9kZ.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  
+}
+
+.perfil-foto {
+  border-radius: 460px;
+  max-height: 160px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+
+.card{
+  text-decoration: none;
+  background-color: #ffffff80;
+  padding: 30px;
+  border-radius: 4%;
+  box-shadow: 3px 3px 1px 0px #00000060;
+  width: 400px;
+}
+.container {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 100px;
+  
+}
+
+.projetos-item{
+  {text-decoration: none;}
+}
